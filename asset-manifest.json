@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/mystore/static/css/main.a76f0b5b.chunk.css",
+    "main.js": "/mystore/static/js/main.e3cb02c1.chunk.js",
+    "main.js.map": "/mystore/static/js/main.e3cb02c1.chunk.js.map",
+    "runtime-main.js": "/mystore/static/js/runtime-main.ffda80d5.js",
+    "runtime-main.js.map": "/mystore/static/js/runtime-main.ffda80d5.js.map",
+    "static/js/2.46f031cd.chunk.js": "/mystore/static/js/2.46f031cd.chunk.js",
+    "static/js/2.46f031cd.chunk.js.map": "/mystore/static/js/2.46f031cd.chunk.js.map",
+    "index.html": "/mystore/index.html",
+    "precache-manifest.514bf9e6bd6718bcef8a46f11b1a055b.js": "/mystore/precache-manifest.514bf9e6bd6718bcef8a46f11b1a055b.js",
+    "service-worker.js": "/mystore/service-worker.js",
+    "static/css/main.a76f0b5b.chunk.css.map": "/mystore/static/css/main.a76f0b5b.chunk.css.map",
+    "static/js/2.46f031cd.chunk.js.LICENSE.txt": "/mystore/static/js/2.46f031cd.chunk.js.LICENSE.txt",
+    "static/media/admin.jpg": "/mystore/static/media/admin.fb142297.jpg",
+    "static/media/airpods.jpg": "/mystore/static/media/airpods.8cc70b8a.jpg",
+    "static/media/airpodspro.jpg": "/mystore/static/media/airpodspro.f16116db.jpg",
+    "static/media/imac.jpg": "/mystore/static/media/imac.07e2b81e.jpg",
+    "static/media/imaccustom.jpg": "/mystore/static/media/imaccustom.7b8a7a6e.jpg",
+    "static/media/ipad19.jpg": "/mystore/static/media/ipad19.9470fa9b.jpg",
+    "static/media/ipadpro.jpg": "/mystore/static/media/ipadpro.1d8368b3.jpg",
+    "static/media/iphone11.jpeg": "/mystore/static/media/iphone11.f3577719.jpeg",
+    "static/media/iphone11progold.jpeg": "/mystore/static/media/iphone11progold.f20a4d71.jpeg",
+    "static/media/iphone11progray.jpeg": "/mystore/static/media/iphone11progray.23521fc8.jpeg",
+    "static/media/iphone11prowhite.jpeg": "/mystore/static/media/iphone11prowhite.96b8b665.jpeg",
+    "static/media/iphone7plusgold.jpg": "/mystore/static/media/iphone7plusgold.1d36079d.jpg",
+    "static/media/iphone7silver.jpg": "/mystore/static/media/iphone7silver.2eb8a447.jpg",
+    "static/media/iphone8white.jpeg": "/mystore/static/media/iphone8white.e65cd29a.jpeg",
+    "static/media/iphonexwhite.jpeg": "/mystore/static/media/iphonexwhite.31dadabf.jpeg",
+    "static/media/logo.PNG": "/mystore/static/media/logo.b1569a9b.PNG",
+    "static/media/macair.jpg": "/mystore/static/media/macair.4530d58d.jpg",
+    "static/media/macpro.jpg": "/mystore/static/media/macpro.7959663d.jpg",
+    "static/media/macpro2.jpg": "/mystore/static/media/macpro2.8bb64879.jpg",
+    "static/media/usbcable.jpg": "/mystore/static/media/usbcable.1b742b22.jpg",
+    "static/media/watch3.jpg": "/mystore/static/media/watch3.ac204452.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffda80d5.js",
+    "static/js/2.46f031cd.chunk.js",
+    "static/css/main.a76f0b5b.chunk.css",
+    "static/js/main.e3cb02c1.chunk.js"
+  ]
+}
